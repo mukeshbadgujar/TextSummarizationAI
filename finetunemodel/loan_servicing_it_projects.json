@@ -1,0 +1,802 @@
+[
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 1. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 1."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 1. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 1."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 2. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 2."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 2. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 2."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 3. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 3."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 3. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 3."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 4. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 4."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 4. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 4."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 5. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 5."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 5. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 5."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 6. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 6."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 6. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 6."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 7. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 7."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 7. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 7."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 8. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 8."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 8. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 8."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 9. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 9."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 9. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 9."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 10. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 10."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 10. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 10."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 11. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 11."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 11. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 11."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 12. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 12."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 12. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 12."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 13. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 13."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 13. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 13."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 14. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 14."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 14. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 14."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 15. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 15."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 15. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 15."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 16. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 16."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 16. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 16."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 17. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 17."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 17. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 17."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 18. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 18."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 18. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 18."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 19. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 19."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 19. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 19."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 20. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 20."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 20. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 20."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 21. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 21."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 21. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 21."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 22. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 22."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 22. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 22."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 23. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 23."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 23. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 23."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 24. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 24."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 24. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 24."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 25. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 25."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 25. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 25."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 26. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 26."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 26. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 26."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 27. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 27."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 27. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 27."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 28. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 28."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 28. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 28."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 29. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 29."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 29. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 29."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 30. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 30."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 30. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 30."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 31. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 31."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 31. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 31."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 32. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 32."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 32. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 32."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 33. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 33."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 33. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 33."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 34. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 34."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 34. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 34."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 35. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 35."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 35. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 35."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 36. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 36."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 36. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 36."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 37. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 37."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 37. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 37."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 38. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 38."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 38. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 38."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 39. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 39."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 39. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 39."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 40. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 40."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 40. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 40."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 41. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 41."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 41. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 41."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 42. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 42."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 42. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 42."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 43. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 43."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 43. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 43."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 44. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 44."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 44. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 44."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 45. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 45."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 45. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 45."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 46. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 46."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 46. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 46."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 47. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 47."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 47. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 47."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 48. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 48."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 48. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 48."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 49. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 49."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 49. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 49."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 50. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 50."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 50. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 50."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 51. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 51."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 51. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 51."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 52. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 52."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 52. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 52."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 53. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 53."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 53. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 53."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 54. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 54."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 54. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 54."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 55. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 55."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 55. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 55."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 56. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 56."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 56. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 56."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 57. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 57."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 57. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 57."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 58. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 58."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 58. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 58."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 59. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 59."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 59. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 59."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 60. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 60."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 60. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 60."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 61. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 61."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 61. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 61."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 62. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 62."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 62. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 62."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 63. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 63."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 63. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 63."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 64. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 64."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 64. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 64."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 65. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 65."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 65. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 65."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 66. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 66."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 66. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 66."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 67. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 67."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 67. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 67."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 68. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 68."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 68. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 68."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 69. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 69."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 69. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 69."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 70. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 70."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 70. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 70."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 71. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 71."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 71. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 71."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 72. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 72."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 72. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 72."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 73. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 73."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 73. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 73."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 74. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 74."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 74. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 74."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 75. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 75."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 75. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 75."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 76. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 76."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 76. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 76."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 77. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 77."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 77. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 77."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 78. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 78."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 78. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 78."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 79. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 79."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 79. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 79."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 80. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 80."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 80. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 80."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 81. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 81."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 81. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 81."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 82. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 82."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 82. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 82."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 83. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 83."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 83. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 83."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 84. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 84."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 84. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 84."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 85. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 85."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 85. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 85."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 86. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 86."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 86. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 86."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 87. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 87."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 87. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 87."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 88. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 88."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 88. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 88."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 89. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 89."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 89. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 89."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 90. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 90."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 90. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 90."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 91. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 91."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 91. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 91."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 92. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 92."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 92. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 92."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 93. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 93."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 93. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 93."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 94. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 94."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 94. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 94."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 95. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 95."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 95. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 95."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 96. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 96."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 96. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 96."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 97. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 97."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 97. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 97."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 98. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 98."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 98. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 98."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 99. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 99."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 99. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 99."
+    },
+    {
+        "input_text": "Loan servicing involves managing loans after they have been issued. Example 100. This includes collecting payments, managing escrow accounts, handling late payments, and addressing customer inquiries. Proper loan servicing ensures compliance with financial regulations and enhances customer satisfaction.",
+        "summary": "Loan servicing manages loan payments, escrow accounts, and customer interactions post-issuance. Example 100."
+    },
+    {
+        "input_text": "Effective IT project documentation outlines the project scope, objectives, deliverables, timelines, and stakeholder responsibilities. Example 100. It ensures that all team members understand their roles and helps in tracking progress against project goals.",
+        "summary": "IT project documentation defines scope, goals, timelines, and team roles for project clarity. Example 100."
+    }
+]
